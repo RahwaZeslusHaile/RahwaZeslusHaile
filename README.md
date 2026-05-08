@@ -57,12 +57,21 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-| :--- | :--- |
-| **LunchFlow** | Full-stack lunch order system built for CodeYourFuture and deployed using Coolify. |
-| **Real-Time Chat App** | React + FastAPI app with WebSockets, fallback polling, and JWT authentication. |
-| **Portfolio Website** | Responsive personal portfolio showcasing my work and journey. |
+### 🥪 LunchFlow
+Full-stack lunch order system built for CodeYourFuture and deployed using Coolify.  
+🔗 [GitHub Repository](https://github.com/RahwaZeslusHaile/LunchFlow)
 
+---
+
+### 💬 Real-Time Chat App
+React + FastAPI chat app with WebSockets, fallback polling, and JWT authentication.  
+🔗 [GitHub Repository](https://github.com/RahwaZeslusHaile/Real-time-chat-app)
+
+---
+
+### 🌐 Portfolio Website
+Responsive portfolio showcasing my projects and skills.  
+🔗 [Live Site](https://rahwa-portfolio.netlify.app/)
 ---
 
 ## 📊 GitHub Stats
